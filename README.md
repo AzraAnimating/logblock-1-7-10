@@ -4,6 +4,7 @@
 ### LogBlock-ChrisTechBuid
 
 A Version of the good ol' 1.7.X Logblock that uses current MySQL Connections.
+
 =========
 
 This plugin logs block changes such as breaking, placing, modifying, or burning to a MySQL Database. It can be used as an anti-griefing tool to find out who made a particular edit, or even roll back changes by certain players.
